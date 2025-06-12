@@ -1,5 +1,5 @@
 # Hajimi
-My personal little helpe.
+My personal little helper.
 
 
 🛠技术栈：HTML/CSS/javascript➕electron
